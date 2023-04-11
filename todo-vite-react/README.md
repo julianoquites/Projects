@@ -1,3 +1,3 @@
-# Projects
+# Todo List
 
-My personal projects. Inspired by others but made by me :)
+## Simple Todo list using Vite, React and TypeScript to train my skills.
