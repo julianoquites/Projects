@@ -7,12 +7,12 @@ import Todo from './components/Todo';
 
 const MOCKLISTA: ITodoItem[] = [
   {
-    name: 'Urologista',
-    date: '24/04',
+    name: 'Psiquiatra',
+    date: '25/04',
     id: uuidv4(),
   },
   {
-    name: 'My pãss',
+    name: 'Ir no super',
     date: '26/09',
     description: 'não sei bem o que eu estou fazendo',
     id: uuidv4(),
@@ -23,7 +23,7 @@ const MOCKLISTA: ITodoItem[] = [
     id: uuidv4(),
   },
   {
-    name: 'Massagem na próstata',
+    name: 'Massagem',
     date: '30/02 às 25h',
     id: uuidv4(),
   },
